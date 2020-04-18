@@ -338,6 +338,6 @@ $(async function () {
     }
   });
 
-  console.dir(currentUser);
+  // console.dir(currentUser);
   // console.dir(storyList)
 });
