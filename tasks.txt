@@ -1,0 +1,53 @@
+done:
+added main-nav-links
+show main-nav links on loggin / gone on loggout
+
+Create a new story:
+    add story to articles list
+    add story to own stories
+toggle submit form
+    get data from form
+toggle my stories 
+    send data to api
+    get response
+
+Favorite and unfavorite stories:
+    add the star
+    on star toggle fav/unfav story
+    add/del from favorite list
+    send fav/unfav info to api
+
+On loggin:
+    add own stories from api call
+    add favorite stories from api call
+
+Delete story
+    add trashcans to own stories
+    on click del from dom (maybe not needed)
+    on click del from api
+
+todo:
+
+REFRESHING THE DOM!!!!!!!!!!!!
+
+Favorite and unfavorite stories:
+    DOM!!!!!!!!!
+
+    refresh page (favs, own stories, articles list)
+
+
+
+error handle for already used username
+
+error handle for incorrect innfo
+
+edit stories
+
+user profile to change username or password
+
+del self
+
+mobile freindly
+
+filtered articles
+
